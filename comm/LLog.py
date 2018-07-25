@@ -4,7 +4,6 @@ import os
 import sys
 import logging
 from logging.handlers import MemoryHandler, RotatingFileHandler
-
 import fileutil
 # from cleanmaster_sync.config import Path
 
