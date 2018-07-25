@@ -1,10 +1,18 @@
 """
 This script runs the FlaskWebProject2 application using a development server.
 """
+import  sys
+from os.path import abspath, join, dirname
+sys.path.insert(0, join(abspath(dirname(__file__)), 'comm'))
+sys.path.insert(0, join(abspath(dirname(__file__)), 'lsnr'))
+sys.path.insert(0, join(abspath(dirname(__file__)), 'web'))
+for path in sys.path:
+    print(path)
 
 from os import environ
 import logging
 from web import app
+
 
 
 if __name__ == '__main__':
