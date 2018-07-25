@@ -1,0 +1,623 @@
+2018-07-25 12:11:42,792 ConnPack()
+2018-07-25 12:11:42,797 ConnPack()
+2018-07-25 12:11:42,801 ConnPack()
+2018-07-25 12:11:42,804 ConnPack()
+2018-07-25 12:11:42,808 ConnPack()
+2018-07-25 12:11:42,811 ConnPack()
+2018-07-25 12:11:42,815 ConnPack()
+2018-07-25 12:11:42,819 ConnPack()
+2018-07-25 12:11:42,825 ConnPack()
+2018-07-25 12:11:42,841 ConnPack()
+2018-07-25 12:11:42,841 pool-thread-start
+2018-07-25 12:11:42,842 hb-size:10,0,True
+2018-07-25 12:11:43,845 hb-size-end:9,True
+2018-07-25 12:11:43,847 hb-size:9,0,True
+2018-07-25 12:11:44,849 hb-size-end:9,True
+2018-07-25 12:11:44,849 hb-size:9,0,True
+2018-07-25 12:12:32,246 ConnPack()
+2018-07-25 12:12:32,250 ConnPack()
+2018-07-25 12:12:32,256 ConnPack()
+2018-07-25 12:12:32,279 ConnPack()
+2018-07-25 12:12:32,282 ConnPack()
+2018-07-25 12:12:32,286 ConnPack()
+2018-07-25 12:12:32,289 ConnPack()
+2018-07-25 12:12:32,293 ConnPack()
+2018-07-25 12:12:32,297 ConnPack()
+2018-07-25 12:12:32,303 ConnPack()
+2018-07-25 12:12:32,304 pool-thread-start
+2018-07-25 12:12:32,304 hb-size:10,0,True
+2018-07-25 12:12:33,306 hb-size-end:9,True
+2018-07-25 12:12:33,307 hb-size:9,0,True
+2018-07-25 12:12:34,316 hb-size-end:9,True
+2018-07-25 12:12:34,321 hb-size:9,0,True
+2018-07-25 12:12:35,324 hb-size-end:9,True
+2018-07-25 12:12:35,324 hb-size:9,0,True
+2018-07-25 12:12:36,326 hb-size-end:9,True
+2018-07-25 12:12:36,326 hb-size:9,0,True
+2018-07-25 12:12:37,328 hb-size-end:9,True
+2018-07-25 12:12:37,328 hb-size:9,0,True
+2018-07-25 12:13:13,317 ConnPack()
+2018-07-25 12:13:13,321 ConnPack()
+2018-07-25 12:13:13,324 ConnPack()
+2018-07-25 12:13:13,327 ConnPack()
+2018-07-25 12:13:13,332 ConnPack()
+2018-07-25 12:13:13,336 ConnPack()
+2018-07-25 12:13:13,339 ConnPack()
+2018-07-25 12:13:13,343 ConnPack()
+2018-07-25 12:13:13,347 ConnPack()
+2018-07-25 12:13:13,350 ConnPack()
+2018-07-25 12:13:13,351 pool-thread-start
+2018-07-25 12:13:13,351 hb-size:10,0,True
+2018-07-25 12:13:14,352 hb-size-end:9,True
+2018-07-25 12:13:14,353 hb-size:9,0,True
+2018-07-25 12:13:15,355 hb-size-end:9,True
+2018-07-25 12:13:15,356 hb-size:9,0,True
+2018-07-25 12:13:16,357 hb-size-end:9,True
+2018-07-25 12:13:16,357 hb-size:9,0,True
+2018-07-25 12:13:17,359 hb-size-end:9,True
+2018-07-25 12:13:17,360 hb-size:9,0,True
+2018-07-25 12:13:18,361 hb-size-end:9,True
+2018-07-25 12:13:18,362 hb-size:9,0,True
+2018-07-25 12:13:19,364 hb-size-end:9,True
+2018-07-25 12:13:19,364 hb-size:9,0,True
+2018-07-25 12:13:20,367 hb-size-end:9,True
+2018-07-25 12:13:20,367 hb-size:9,0,True
+2018-07-25 12:13:21,368 hb-size-end:9,True
+2018-07-25 12:13:21,368 hb-size:9,0,True
+2018-07-25 12:13:22,370 hb-size-end:9,True
+2018-07-25 12:13:22,370 hb-size:9,0,True
+2018-07-25 12:13:23,371 hb-size-end:9,True
+2018-07-25 12:13:23,371 hb-size:9,0,True
+2018-07-25 12:13:24,373 hb-size-end:9,True
+2018-07-25 12:13:24,374 hb-size:9,0,True
+2018-07-25 12:13:25,377 hb-size-end:9,True
+2018-07-25 12:13:25,379 hb-size:9,0,True
+2018-07-25 12:13:26,380 hb-size-end:9,True
+2018-07-25 12:13:26,388 hb-size:9,0,True
+2018-07-25 12:13:27,391 hb-size-end:9,True
+2018-07-25 12:13:27,393 hb-size:9,0,True
+2018-07-25 12:13:28,395 hb-size-end:9,True
+2018-07-25 12:13:28,396 hb-size:9,0,True
+2018-07-25 12:13:29,397 hb-size-end:9,True
+2018-07-25 12:13:29,398 hb-size:9,0,True
+2018-07-25 12:13:30,400 hb-size-end:9,True
+2018-07-25 12:13:30,400 hb-size:9,0,True
+2018-07-25 12:13:31,402 hb-size-end:9,True
+2018-07-25 12:13:31,402 hb-size:9,0,True
+2018-07-25 12:13:32,404 hb-size-end:9,True
+2018-07-25 12:13:32,404 hb-size:9,0,True
+2018-07-25 12:13:33,410 hb-size-end:9,True
+2018-07-25 12:13:33,412 hb-size:9,0,True
+2018-07-25 12:13:34,414 hb-size-end:9,True
+2018-07-25 12:13:34,414 hb-size:9,0,True
+2018-07-25 12:13:35,419 hb-size-end:9,True
+2018-07-25 12:13:35,439 hb-size:9,0,True
+2018-07-25 12:13:36,442 hb-size-end:9,True
+2018-07-25 12:13:36,443 hb-size:9,0,True
+2018-07-25 12:13:37,444 hb-size-end:9,True
+2018-07-25 12:13:37,445 hb-size:9,0,True
+2018-07-25 12:13:38,447 hb-size-end:9,True
+2018-07-25 12:13:38,447 hb-size:9,0,True
+2018-07-25 12:13:39,449 hb-size-end:9,True
+2018-07-25 12:13:39,461 hb-size:9,0,True
+2018-07-25 12:13:40,464 hb-size-end:9,True
+2018-07-25 12:13:40,464 hb-size:9,0,True
+2018-07-25 12:13:41,466 hb-size-end:9,True
+2018-07-25 12:13:41,466 hb-size:9,0,True
+2018-07-25 12:13:42,468 hb-size-end:9,True
+2018-07-25 12:13:42,468 hb-size:9,0,True
+2018-07-25 12:13:43,470 hb-size-end:9,True
+2018-07-25 12:13:43,471 hb-size:9,0,True
+2018-07-25 12:13:44,476 hb-size-end:9,True
+2018-07-25 12:13:44,477 hb-size:9,0,True
+2018-07-25 12:13:45,480 hb-size-end:9,True
+2018-07-25 12:13:45,480 hb-size:9,0,True
+2018-07-25 12:13:46,481 hb-size-end:9,True
+2018-07-25 12:13:46,481 hb-size:9,0,True
+2018-07-25 12:13:47,484 hb-size-end:9,True
+2018-07-25 12:13:47,489 hb-size:9,0,True
+2018-07-25 12:13:48,491 hb-size-end:9,True
+2018-07-25 12:13:48,492 hb-size:9,0,True
+2018-07-25 12:13:49,494 hb-size-end:9,True
+2018-07-25 12:13:49,494 hb-size:9,0,True
+2018-07-25 12:13:50,497 hb-size-end:9,True
+2018-07-25 12:13:50,499 hb-size:9,0,True
+2018-07-25 12:13:51,500 hb-size-end:9,True
+2018-07-25 12:13:51,500 hb-size:9,0,True
+2018-07-25 12:13:52,502 hb-size-end:9,True
+2018-07-25 12:13:52,502 hb-size:9,0,True
+2018-07-25 12:13:53,503 hb-size-end:9,True
+2018-07-25 12:13:53,504 hb-size:9,0,True
+2018-07-25 12:13:54,510 hb-size-end:9,True
+2018-07-25 12:13:54,511 hb-size:9,0,True
+2018-07-25 12:13:55,515 hb-size-end:9,True
+2018-07-25 12:13:55,516 hb-size:9,0,True
+2018-07-25 12:13:58,423 ConnPack()
+2018-07-25 12:13:58,427 ConnPack()
+2018-07-25 12:13:58,431 ConnPack()
+2018-07-25 12:13:58,435 ConnPack()
+2018-07-25 12:13:58,439 ConnPack()
+2018-07-25 12:13:58,442 ConnPack()
+2018-07-25 12:13:58,445 ConnPack()
+2018-07-25 12:13:58,449 ConnPack()
+2018-07-25 12:13:58,456 ConnPack()
+2018-07-25 12:13:58,461 ConnPack()
+2018-07-25 12:13:58,461 pool-thread-start
+2018-07-25 12:13:58,462 hb-size:10,0,True
+2018-07-25 12:13:59,467 hb-size-end:9,True
+2018-07-25 12:13:59,469 hb-size:9,0,True
+2018-07-25 12:14:00,475 hb-size-end:9,True
+2018-07-25 12:14:00,476 hb-size:9,0,True
+2018-07-25 12:14:01,478 hb-size-end:9,True
+2018-07-25 12:14:01,479 hb-size:9,0,True
+2018-07-25 12:14:02,481 hb-size-end:9,True
+2018-07-25 12:14:02,481 hb-size:9,0,True
+2018-07-25 12:14:03,486 hb-size-end:9,True
+2018-07-25 12:14:03,489 hb-size:9,0,True
+2018-07-25 12:14:04,490 hb-size-end:9,True
+2018-07-25 12:14:04,490 hb-size:9,0,True
+2018-07-25 12:14:05,491 hb-size-end:9,True
+2018-07-25 12:14:05,491 hb-size:9,0,True
+2018-07-25 12:14:06,494 hb-size-end:9,True
+2018-07-25 12:14:06,494 hb-size:9,0,True
+2018-07-25 12:14:07,497 hb-size-end:9,True
+2018-07-25 12:14:07,510 hb-size:9,0,True
+2018-07-25 12:14:08,513 hb-size-end:9,True
+2018-07-25 12:14:08,513 hb-size:9,0,True
+2018-07-25 12:14:09,514 hb-size-end:9,True
+2018-07-25 12:14:09,515 hb-size:9,0,True
+2018-07-25 12:14:10,518 hb-size-end:9,True
+2018-07-25 12:14:10,519 hb-size:9,0,True
+2018-07-25 12:14:11,522 hb-size-end:9,True
+2018-07-25 12:14:11,527 hb-size:9,0,True
+2018-07-25 12:14:12,531 hb-size-end:9,True
+2018-07-25 12:14:12,531 hb-size:9,0,True
+2018-07-25 12:14:13,533 hb-size-end:9,True
+2018-07-25 12:14:13,533 hb-size:9,0,True
+2018-07-25 12:14:14,534 hb-size-end:9,True
+2018-07-25 12:14:14,534 hb-size:9,0,True
+2018-07-25 12:14:15,536 hb-size-end:9,True
+2018-07-25 12:14:15,536 hb-size:9,0,True
+2018-07-25 12:14:16,540 hb-size-end:9,True
+2018-07-25 12:14:16,542 hb-size:9,0,True
+2018-07-25 12:14:17,543 hb-size-end:9,True
+2018-07-25 12:14:17,543 hb-size:9,0,True
+2018-07-25 12:14:18,544 hb-size-end:9,True
+2018-07-25 12:14:18,544 hb-size:9,0,True
+2018-07-25 12:14:19,548 hb-size-end:9,True
+2018-07-25 12:14:19,548 hb-size:9,0,True
+2018-07-25 12:14:20,550 hb-size-end:9,True
+2018-07-25 12:14:20,550 hb-size:9,0,True
+2018-07-25 12:14:21,552 hb-size-end:9,True
+2018-07-25 12:14:21,569 hb-size:9,0,True
+2018-07-25 12:14:22,580 hb-size-end:9,True
+2018-07-25 12:14:22,581 hb-size:9,0,True
+2018-07-25 12:14:23,582 hb-size-end:9,True
+2018-07-25 12:14:23,582 hb-size:9,0,True
+2018-07-25 12:14:24,583 hb-size-end:9,True
+2018-07-25 12:14:24,583 hb-size:9,0,True
+2018-07-25 12:14:25,585 hb-size-end:9,True
+2018-07-25 12:14:25,587 hb-size:9,0,True
+2018-07-25 12:15:19,690 ConnPack()
+2018-07-25 12:15:19,695 ConnPack()
+2018-07-25 12:15:19,709 ConnPack()
+2018-07-25 12:15:19,713 ConnPack()
+2018-07-25 12:15:19,727 ConnPack()
+2018-07-25 12:15:19,730 ConnPack()
+2018-07-25 12:15:19,735 ConnPack()
+2018-07-25 12:15:19,760 ConnPack()
+2018-07-25 12:15:19,783 ConnPack()
+2018-07-25 12:15:19,803 ConnPack()
+2018-07-25 12:15:19,803 pool-thread-start
+2018-07-25 12:15:19,804 hb-size:10,0,True
+2018-07-25 12:18:34,264 ConnPack()
+2018-07-25 12:18:34,271 ConnPack()
+2018-07-25 12:18:34,274 ConnPack()
+2018-07-25 12:18:34,278 ConnPack()
+2018-07-25 12:18:34,282 ConnPack()
+2018-07-25 12:18:34,296 ConnPack()
+2018-07-25 12:18:34,301 ConnPack()
+2018-07-25 12:18:34,304 ConnPack()
+2018-07-25 12:18:34,308 ConnPack()
+2018-07-25 12:18:34,311 ConnPack()
+2018-07-25 12:18:34,311 pool-thread-start
+2018-07-25 12:18:34,312 hb-size:10,0,True
+2018-07-25 12:18:34,346 ConnPack()
+2018-07-25 12:18:34,352 ConnPack()
+2018-07-25 12:18:34,356 ConnPack()
+2018-07-25 12:18:34,360 ConnPack()
+2018-07-25 12:18:34,363 ConnPack()
+2018-07-25 12:18:34,366 ConnPack()
+2018-07-25 12:18:34,370 ConnPack()
+2018-07-25 12:18:34,375 ConnPack()
+2018-07-25 12:18:34,390 ConnPack()
+2018-07-25 12:18:34,408 ConnPack()
+2018-07-25 12:18:34,409 pool-thread-start
+2018-07-25 12:18:34,409 hb-size:10,0,True
+2018-07-25 12:19:44,306 ConnPack()
+2018-07-25 12:19:44,311 ConnPack()
+2018-07-25 12:19:44,314 ConnPack()
+2018-07-25 12:19:44,317 ConnPack()
+2018-07-25 12:19:44,331 ConnPack()
+2018-07-25 12:19:44,344 ConnPack()
+2018-07-25 12:19:44,348 ConnPack()
+2018-07-25 12:19:44,351 ConnPack()
+2018-07-25 12:19:44,356 ConnPack()
+2018-07-25 12:19:44,371 ConnPack()
+2018-07-25 12:19:44,372 pool-thread-start
+2018-07-25 12:19:44,373 hb-size:10,0,True
+2018-07-25 12:19:45,377 hb-size-end:0,True
+2018-07-25 12:19:45,381 hb-size:0,0,True
+2018-07-25 12:19:46,386 hb-size-end:0,True
+2018-07-25 12:19:46,387 hb-size:0,0,True
+2018-07-25 12:19:47,394 hb-size-end:0,True
+2018-07-25 12:19:47,394 hb-size:0,0,True
+2018-07-25 12:19:48,400 hb-size-end:0,True
+2018-07-25 12:19:48,402 hb-size:0,0,True
+2018-07-25 12:19:49,408 hb-size-end:0,True
+2018-07-25 12:19:49,412 hb-size:0,0,True
+2018-07-25 12:19:50,415 hb-size-end:0,True
+2018-07-25 12:19:50,415 hb-size:0,0,True
+2018-07-25 12:19:51,416 hb-size-end:0,True
+2018-07-25 12:19:51,426 hb-size:0,0,True
+2018-07-25 12:19:52,428 hb-size-end:0,True
+2018-07-25 12:19:52,430 hb-size:0,0,True
+2018-07-25 12:19:53,435 hb-size-end:0,True
+2018-07-25 12:19:53,437 hb-size:0,0,True
+2018-07-25 12:19:54,441 hb-size-end:0,True
+2018-07-25 12:19:54,441 hb-size:0,0,True
+2018-07-25 12:19:55,449 hb-size-end:0,True
+2018-07-25 12:19:55,450 hb-size:0,0,True
+2018-07-25 12:19:56,451 hb-size-end:0,True
+2018-07-25 12:19:56,455 hb-size:0,0,True
+2018-07-25 12:19:57,460 hb-size-end:0,True
+2018-07-25 12:19:57,463 hb-size:0,0,True
+2018-07-25 12:19:58,469 hb-size-end:0,True
+2018-07-25 12:19:58,472 hb-size:0,0,True
+2018-07-25 12:19:59,477 hb-size-end:0,True
+2018-07-25 12:19:59,481 hb-size:0,0,True
+2018-07-25 12:20:00,484 hb-size-end:0,True
+2018-07-25 12:20:00,489 hb-size:0,0,True
+2018-07-25 12:20:01,492 hb-size-end:0,True
+2018-07-25 12:20:01,512 hb-size:0,0,True
+2018-07-25 12:20:02,516 hb-size-end:0,True
+2018-07-25 12:20:02,521 hb-size:0,0,True
+2018-07-25 12:20:03,523 hb-size-end:0,True
+2018-07-25 12:20:03,528 hb-size:0,0,True
+2018-07-25 12:20:04,533 hb-size-end:0,True
+2018-07-25 12:20:04,535 hb-size:0,0,True
+2018-07-25 12:20:05,537 hb-size-end:0,True
+2018-07-25 12:20:05,540 hb-size:0,0,True
+2018-07-25 12:20:06,551 hb-size-end:0,True
+2018-07-25 12:20:06,554 hb-size:0,0,True
+2018-07-25 12:20:07,557 hb-size-end:0,True
+2018-07-25 12:20:07,561 hb-size:0,0,True
+2018-07-25 12:20:08,562 hb-size-end:0,True
+2018-07-25 12:20:08,565 hb-size:0,0,True
+2018-07-25 12:20:09,569 hb-size-end:0,True
+2018-07-25 12:20:09,573 hb-size:0,0,True
+2018-07-25 12:20:10,576 hb-size-end:0,True
+2018-07-25 12:20:10,579 hb-size:0,0,True
+2018-07-25 12:20:11,583 hb-size-end:0,True
+2018-07-25 12:20:11,586 hb-size:0,0,True
+2018-07-25 12:20:12,591 hb-size-end:0,True
+2018-07-25 12:20:12,595 hb-size:0,0,True
+2018-07-25 12:20:13,603 hb-size-end:0,True
+2018-07-25 12:20:13,605 hb-size:0,0,True
+2018-07-25 12:20:14,610 hb-size-end:0,True
+2018-07-25 12:20:14,613 hb-size:0,0,True
+2018-07-25 12:20:15,616 hb-size-end:0,True
+2018-07-25 12:20:15,617 hb-size:0,0,True
+2018-07-25 12:20:16,630 hb-size-end:0,True
+2018-07-25 12:20:16,640 hb-size:0,0,True
+2018-07-25 12:20:17,641 hb-size-end:0,True
+2018-07-25 12:20:17,644 hb-size:0,0,True
+2018-07-25 12:20:18,463 Mysql Error:<__main__.ConnPack object at 0x000002B26BD55908>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:18,647 hb-size-end:0,True
+2018-07-25 12:20:18,651 hb-size:0,1,True
+2018-07-25 12:20:18,653 ConnPack-close,Already closed
+2018-07-25 12:20:18,674 ConnPack()
+2018-07-25 12:20:18,675 hb-put-<__main__.ConnPack object at 0x000002B26BD63A20>
+2018-07-25 12:20:19,037 Mysql Error:<__main__.ConnPack object at 0x000002B26BD1A7F0>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:19,278 Mysql Error:<__main__.ConnPack object at 0x000002B26BD55A90>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:19,677 hb-size-end:0,True
+2018-07-25 12:20:19,678 hb-size:0,2,True
+2018-07-25 12:20:19,681 ConnPack-close,Already closed
+2018-07-25 12:20:19,696 ConnPack()
+2018-07-25 12:20:19,697 hb-put-<__main__.ConnPack object at 0x000002B26BD55908>
+2018-07-25 12:20:20,701 hb-size-end:0,True
+2018-07-25 12:20:20,704 hb-size:0,1,True
+2018-07-25 12:20:20,706 ConnPack-close,Already closed
+2018-07-25 12:20:20,728 ConnPack()
+2018-07-25 12:20:20,728 hb-put-<__main__.ConnPack object at 0x000002B26BD554A8>
+2018-07-25 12:20:20,734 Mysql Error:<__main__.ConnPack object at 0x000002B26BD554A8>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:21,522 Mysql Error:<__main__.ConnPack object at 0x000002B26BD556D8>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:21,734 hb-size-end:0,True
+2018-07-25 12:20:21,736 hb-size:0,2,True
+2018-07-25 12:20:21,738 ConnPack-close,Already closed
+2018-07-25 12:20:21,752 ConnPack()
+2018-07-25 12:20:21,755 hb-put-<__main__.ConnPack object at 0x000002B26BD55A90>
+2018-07-25 12:20:22,757 hb-size-end:0,True
+2018-07-25 12:20:22,759 hb-size:0,1,True
+2018-07-25 12:20:22,760 ConnPack-close,Already closed
+2018-07-25 12:20:22,775 ConnPack()
+2018-07-25 12:20:22,777 hb-put-<__main__.ConnPack object at 0x000002B26BD29160>
+2018-07-25 12:20:22,782 Mysql Error:<__main__.ConnPack object at 0x000002B26BD29160>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:23,029 Mysql Error:<__main__.ConnPack object at 0x000002B26BD55F60>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:23,780 hb-size-end:0,True
+2018-07-25 12:20:23,784 hb-size:0,2,True
+2018-07-25 12:20:23,787 ConnPack-close,Already closed
+2018-07-25 12:20:23,800 ConnPack()
+2018-07-25 12:20:23,801 hb-put-<__main__.ConnPack object at 0x000002B26BD556D8>
+2018-07-25 12:20:24,802 hb-size-end:0,True
+2018-07-25 12:20:24,804 hb-size:0,1,True
+2018-07-25 12:20:24,806 ConnPack-close,Already closed
+2018-07-25 12:20:24,823 ConnPack()
+2018-07-25 12:20:24,824 hb-put-<__main__.ConnPack object at 0x000002B26BD29160>
+2018-07-25 12:20:24,833 Mysql Error:<__main__.ConnPack object at 0x000002B26BD29160>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:25,827 hb-size-end:0,True
+2018-07-25 12:20:25,828 hb-size:0,1,True
+2018-07-25 12:20:25,831 ConnPack-close,Already closed
+2018-07-25 12:20:25,842 ConnPack()
+2018-07-25 12:20:25,845 hb-put-<__main__.ConnPack object at 0x000002B26BD6E588>
+2018-07-25 12:20:26,848 hb-size-end:0,True
+2018-07-25 12:20:26,849 hb-size:0,0,True
+2018-07-25 12:20:27,857 hb-size-end:0,True
+2018-07-25 12:20:27,865 hb-size:0,0,True
+2018-07-25 12:20:28,871 hb-size-end:0,True
+2018-07-25 12:20:28,873 hb-size:0,0,True
+2018-07-25 12:20:29,880 hb-size-end:0,True
+2018-07-25 12:20:29,882 hb-size:0,0,True
+2018-07-25 12:20:30,891 hb-size-end:0,True
+2018-07-25 12:20:30,895 hb-size:0,0,True
+2018-07-25 12:20:31,897 hb-size-end:0,True
+2018-07-25 12:20:31,898 hb-size:0,0,True
+2018-07-25 12:20:32,902 hb-size-end:0,True
+2018-07-25 12:20:32,904 hb-size:0,0,True
+2018-07-25 12:20:33,910 hb-size-end:0,True
+2018-07-25 12:20:33,911 hb-size:0,0,True
+2018-07-25 12:20:34,920 hb-size-end:0,True
+2018-07-25 12:20:34,922 hb-size:0,0,True
+2018-07-25 12:20:35,927 hb-size-end:0,True
+2018-07-25 12:20:35,929 hb-size:0,0,True
+2018-07-25 12:20:36,943 hb-size-end:0,True
+2018-07-25 12:20:36,945 hb-size:0,0,True
+2018-07-25 12:20:37,950 hb-size-end:0,True
+2018-07-25 12:20:37,953 hb-size:0,0,True
+2018-07-25 12:20:38,958 hb-size-end:0,True
+2018-07-25 12:20:38,959 hb-size:0,0,True
+2018-07-25 12:20:39,962 hb-size-end:0,True
+2018-07-25 12:20:39,964 hb-size:0,0,True
+2018-07-25 12:20:40,980 hb-size-end:0,True
+2018-07-25 12:20:40,983 hb-size:0,0,True
+2018-07-25 12:20:41,990 hb-size-end:0,True
+2018-07-25 12:20:41,992 hb-size:0,0,True
+2018-07-25 12:20:42,995 hb-size-end:0,True
+2018-07-25 12:20:42,996 hb-size:0,0,True
+2018-07-25 12:20:43,998 hb-size-end:0,True
+2018-07-25 12:20:44,000 hb-size:0,0,True
+2018-07-25 12:20:45,001 hb-size-end:0,True
+2018-07-25 12:20:45,002 hb-size:0,0,True
+2018-07-25 12:20:46,005 hb-size-end:0,True
+2018-07-25 12:20:46,008 hb-size:0,0,True
+2018-07-25 12:20:47,009 hb-size-end:0,True
+2018-07-25 12:20:47,010 hb-size:0,0,True
+2018-07-25 12:20:48,015 hb-size-end:0,True
+2018-07-25 12:20:48,017 hb-size:0,0,True
+2018-07-25 12:20:49,021 hb-size-end:0,True
+2018-07-25 12:20:49,023 hb-size:0,0,True
+2018-07-25 12:20:50,029 hb-size-end:0,True
+2018-07-25 12:20:50,033 hb-size:0,0,True
+2018-07-25 12:20:51,038 hb-size-end:0,True
+2018-07-25 12:20:51,040 hb-size:0,0,True
+2018-07-25 12:20:52,043 hb-size-end:0,True
+2018-07-25 12:20:52,045 hb-size:0,0,True
+2018-07-25 12:20:53,048 hb-size-end:0,True
+2018-07-25 12:20:53,050 hb-size:0,0,True
+2018-07-25 12:20:54,052 hb-size-end:0,True
+2018-07-25 12:20:54,058 hb-size:0,0,True
+2018-07-25 12:20:54,393 Mysql Error:<__main__.ConnPack object at 0x000002B26BD55C50>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:55,066 hb-size-end:0,True
+2018-07-25 12:20:55,069 hb-size:0,1,True
+2018-07-25 12:20:55,070 ConnPack-close,Already closed
+2018-07-25 12:20:55,092 ConnPack()
+2018-07-25 12:20:55,093 hb-put-<__main__.ConnPack object at 0x000002B26BD29160>
+2018-07-25 12:20:55,469 Mysql Error:<__main__.ConnPack object at 0x000002B26BD556D8>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:56,095 hb-size-end:0,True
+2018-07-25 12:20:56,096 hb-size:0,1,True
+2018-07-25 12:20:56,102 ConnPack-close,Already closed
+2018-07-25 12:20:56,118 ConnPack()
+2018-07-25 12:20:56,122 hb-put-<__main__.ConnPack object at 0x000002B26BD55C50>
+2018-07-25 12:20:56,125 Mysql Error:<__main__.ConnPack object at 0x000002B26BD55C50>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:56,427 Mysql Error:<__main__.ConnPack object at 0x000002B26BD631D0>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:56,733 Mysql Error:<__main__.ConnPack object at 0x000002B26BD6E588>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:57,128 hb-size-end:0,True
+2018-07-25 12:20:57,129 hb-size:0,3,True
+2018-07-25 12:20:57,130 ConnPack-close,Already closed
+2018-07-25 12:20:57,145 ConnPack()
+2018-07-25 12:20:57,145 hb-put-<__main__.ConnPack object at 0x000002B26BD556D8>
+2018-07-25 12:20:57,148 Mysql Error:<__main__.ConnPack object at 0x000002B26BD55908>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:58,058 Mysql Error:<__main__.ConnPack object at 0x000002B26BD556D8>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:20:58,148 hb-size-end:0,True
+2018-07-25 12:20:58,152 hb-size:0,4,True
+2018-07-25 12:20:58,152 ConnPack-close,Already closed
+2018-07-25 12:20:58,169 ConnPack()
+2018-07-25 12:20:58,171 hb-put-<__main__.ConnPack object at 0x000002B26BD1A828>
+2018-07-25 12:20:59,173 hb-size-end:0,True
+2018-07-25 12:20:59,176 hb-size:0,3,True
+2018-07-25 12:20:59,178 ConnPack-close,Already closed
+2018-07-25 12:20:59,189 ConnPack()
+2018-07-25 12:20:59,190 hb-put-<__main__.ConnPack object at 0x000002B26BD631D0>
+2018-07-25 12:21:00,194 hb-size-end:0,True
+2018-07-25 12:21:00,197 hb-size:0,2,True
+2018-07-25 12:21:00,198 ConnPack-close,Already closed
+2018-07-25 12:21:00,212 ConnPack()
+2018-07-25 12:21:00,214 hb-put-<__main__.ConnPack object at 0x000002B26BD55860>
+2018-07-25 12:21:00,216 Mysql Error:<__main__.ConnPack object at 0x000002B26BD55860>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:01,216 hb-size-end:0,True
+2018-07-25 12:21:01,219 hb-size:0,2,True
+2018-07-25 12:21:01,223 ConnPack-close,Already closed
+2018-07-25 12:21:01,244 ConnPack()
+2018-07-25 12:21:01,246 hb-put-<__main__.ConnPack object at 0x000002B26BD6EE10>
+2018-07-25 12:21:01,476 Mysql Error:<__main__.ConnPack object at 0x000002B26BD55A90>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:02,251 hb-size-end:0,True
+2018-07-25 12:21:02,252 hb-size:0,2,True
+2018-07-25 12:21:02,255 ConnPack-close,Already closed
+2018-07-25 12:21:02,268 ConnPack()
+2018-07-25 12:21:02,269 hb-put-<__main__.ConnPack object at 0x000002B26BD63978>
+2018-07-25 12:21:02,864 Mysql Error:<__main__.ConnPack object at 0x000002B26BD63550>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:03,272 hb-size-end:0,True
+2018-07-25 12:21:03,274 hb-size:0,2,True
+2018-07-25 12:21:03,276 ConnPack-close,Already closed
+2018-07-25 12:21:03,290 ConnPack()
+2018-07-25 12:21:03,292 hb-put-<__main__.ConnPack object at 0x000002B26BD7B780>
+2018-07-25 12:21:04,294 hb-size-end:0,True
+2018-07-25 12:21:04,297 hb-size:0,1,True
+2018-07-25 12:21:04,299 ConnPack-close,Already closed
+2018-07-25 12:21:04,328 ConnPack()
+2018-07-25 12:21:04,333 hb-put-<__main__.ConnPack object at 0x000002B26BD7BE48>
+2018-07-25 12:21:04,335 Mysql Error:<__main__.ConnPack object at 0x000002B26BD7B780>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:05,336 hb-size-end:0,True
+2018-07-25 12:21:05,337 hb-size:0,1,True
+2018-07-25 12:21:05,346 ConnPack-close,Already closed
+2018-07-25 12:21:05,363 ConnPack()
+2018-07-25 12:21:05,364 hb-put-<__main__.ConnPack object at 0x000002B26BD6EA20>
+2018-07-25 12:21:05,369 Mysql Error:<__main__.ConnPack object at 0x000002B26BD1A828>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:06,367 hb-size-end:0,True
+2018-07-25 12:21:06,369 hb-size:0,1,True
+2018-07-25 12:21:06,371 ConnPack-close,Already closed
+2018-07-25 12:21:06,384 ConnPack()
+2018-07-25 12:21:06,386 hb-put-<__main__.ConnPack object at 0x000002B26BD7B780>
+2018-07-25 12:21:07,394 hb-size-end:1,True
+2018-07-25 12:21:07,397 hb-size:1,0,True
+2018-07-25 12:21:08,400 hb-size-end:1,True
+2018-07-25 12:21:08,402 hb-size:1,0,True
+2018-07-25 12:21:09,404 hb-size-end:1,True
+2018-07-25 12:21:09,409 hb-size:1,0,True
+2018-07-25 12:21:10,411 hb-size-end:1,True
+2018-07-25 12:21:10,412 hb-size:1,0,True
+2018-07-25 12:21:11,415 hb-size-end:1,True
+2018-07-25 12:21:11,418 hb-size:1,0,True
+2018-07-25 12:21:12,419 hb-size-end:1,True
+2018-07-25 12:21:12,422 hb-size:1,0,True
+2018-07-25 12:21:13,427 hb-size-end:1,True
+2018-07-25 12:21:13,428 hb-size:1,0,True
+2018-07-25 12:21:14,430 hb-size-end:1,True
+2018-07-25 12:21:14,430 hb-size:1,0,True
+2018-07-25 12:21:15,433 hb-size-end:1,True
+2018-07-25 12:21:15,434 hb-size:1,0,True
+2018-07-25 12:21:16,445 hb-size-end:1,True
+2018-07-25 12:21:16,447 hb-size:1,0,True
+2018-07-25 12:21:17,449 hb-size-end:1,True
+2018-07-25 12:21:17,450 hb-size:1,0,True
+2018-07-25 12:21:18,453 hb-size-end:1,True
+2018-07-25 12:21:18,457 hb-size:1,0,True
+2018-07-25 12:21:19,460 hb-size-end:1,True
+2018-07-25 12:21:19,463 hb-size:1,0,True
+2018-07-25 12:21:20,468 hb-size-end:1,True
+2018-07-25 12:21:20,471 hb-size:1,0,True
+2018-07-25 12:21:21,474 hb-size-end:1,True
+2018-07-25 12:21:21,476 hb-size:1,0,True
+2018-07-25 12:21:22,480 hb-size-end:1,True
+2018-07-25 12:21:22,483 hb-size:1,0,True
+2018-07-25 12:21:23,487 hb-size-end:1,True
+2018-07-25 12:21:23,487 hb-size:1,0,True
+2018-07-25 12:21:23,672 Mysql Error:<__main__.ConnPack object at 0x000002B26BD63978>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:24,150 Mysql Error:<__main__.ConnPack object at 0x000002B26BD29160>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:24,495 hb-size-end:1,True
+2018-07-25 12:21:24,496 hb-size:1,2,True
+2018-07-25 12:21:24,497 ConnPack-close,Already closed
+2018-07-25 12:21:24,513 ConnPack()
+2018-07-25 12:21:24,514 hb-put-<__main__.ConnPack object at 0x000002B26BD1A828>
+2018-07-25 12:21:24,530 Mysql Error:<__main__.ConnPack object at 0x000002B26BD1A828>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:25,290 Mysql Error:<__main__.ConnPack object at 0x000002B26BD55E10>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:25,516 hb-size-end:2,True
+2018-07-25 12:21:25,516 hb-size:2,3,True
+2018-07-25 12:21:25,517 ConnPack-close,Already closed
+2018-07-25 12:21:25,529 ConnPack()
+2018-07-25 12:21:25,530 hb-put-<__main__.ConnPack object at 0x000002B26BD6E518>
+2018-07-25 12:21:26,532 hb-size-end:3,True
+2018-07-25 12:21:26,533 hb-size:3,2,True
+2018-07-25 12:21:26,534 ConnPack-close,Already closed
+2018-07-25 12:21:26,543 ConnPack()
+2018-07-25 12:21:26,544 hb-put-<__main__.ConnPack object at 0x000002B26BD29160>
+2018-07-25 12:21:26,827 Mysql Error:<__main__.ConnPack object at 0x000002B26BD63390>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:27,545 hb-size-end:3,True
+2018-07-25 12:21:27,546 hb-size:3,2,True
+2018-07-25 12:21:27,547 ConnPack-close,Already closed
+2018-07-25 12:21:27,559 ConnPack()
+2018-07-25 12:21:27,559 hb-put-<__main__.ConnPack object at 0x000002B26BD1A828>
+2018-07-25 12:21:27,882 Mysql Error:<__main__.ConnPack object at 0x000002B26BD1A828>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:28,560 hb-size-end:4,True
+2018-07-25 12:21:28,564 hb-size:4,2,True
+2018-07-25 12:21:28,564 ConnPack-close,Already closed
+2018-07-25 12:21:28,578 ConnPack()
+2018-07-25 12:21:28,579 hb-put-<__main__.ConnPack object at 0x000002B26BD6EF98>
+2018-07-25 12:21:28,880 Mysql Error:<__main__.ConnPack object at 0x000002B26BD7BE48>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:29,108 Mysql Error:<__main__.ConnPack object at 0x000002B26BD6EE10>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:29,319 Mysql Error:<__main__.ConnPack object at 0x000002B26BD6E518>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:29,580 hb-size-end:5,True
+2018-07-25 12:21:29,580 hb-size:5,4,True
+2018-07-25 12:21:29,581 ConnPack-close,Already closed
+2018-07-25 12:21:29,596 ConnPack()
+2018-07-25 12:21:29,597 hb-put-<__main__.ConnPack object at 0x000002B26BD7B0F0>
+2018-07-25 12:21:30,598 hb-size-end:6,True
+2018-07-25 12:21:30,598 hb-size:6,3,True
+2018-07-25 12:21:30,599 ConnPack-close,Already closed
+2018-07-25 12:21:30,605 ConnPack()
+2018-07-25 12:21:30,606 hb-put-<__main__.ConnPack object at 0x000002B26BD1A828>
+2018-07-25 12:21:31,607 hb-size-end:7,True
+2018-07-25 12:21:31,607 hb-size:7,2,True
+2018-07-25 12:21:31,608 ConnPack-close,Already closed
+2018-07-25 12:21:31,616 ConnPack()
+2018-07-25 12:21:31,616 hb-put-<__main__.ConnPack object at 0x000002B26BD7BE48>
+2018-07-25 12:21:32,617 hb-size-end:8,True
+2018-07-25 12:21:32,617 hb-size:8,1,True
+2018-07-25 12:21:32,618 ConnPack-close,Already closed
+2018-07-25 12:21:32,633 ConnPack()
+2018-07-25 12:21:32,633 hb-put-<__main__.ConnPack object at 0x000002B26BD6EE10>
+2018-07-25 12:21:33,634 hb-size-end:9,True
+2018-07-25 12:21:33,634 hb-size:9,0,True
+2018-07-25 12:21:34,635 hb-size-end:9,True
+2018-07-25 12:21:34,635 hb-size:9,0,True
+2018-07-25 12:21:35,240 Mysql Error:<__main__.ConnPack object at 0x000002B26BD7B780>--(1146, "Table 'test.test3' doesn't exist")--SQL:select * from test3
+2018-07-25 12:21:35,246 ConnPack()
+2018-07-25 12:21:35,251 ConnPack()
+2018-07-25 12:21:35,255 ConnPack()
+2018-07-25 12:21:35,259 ConnPack()
+2018-07-25 12:21:35,263 ConnPack()
+2018-07-25 12:21:35,266 ConnPack()
+2018-07-25 12:21:35,270 ConnPack()
+2018-07-25 12:21:35,273 ConnPack()
+2018-07-25 12:21:35,277 ConnPack()
+2018-07-25 12:21:35,281 ConnPack()
+2018-07-25 12:21:35,281 pool-thread-start
+2018-07-25 12:21:35,281 hb-size:10,0,True
+2018-07-25 12:27:00,331 ConnPack()
+2018-07-25 12:27:00,334 ConnPack()
+2018-07-25 12:27:00,337 ConnPack()
+2018-07-25 12:27:00,341 ConnPack()
+2018-07-25 12:27:00,344 ConnPack()
+2018-07-25 12:27:00,359 ConnPack()
+2018-07-25 12:27:00,363 ConnPack()
+2018-07-25 12:27:00,366 ConnPack()
+2018-07-25 12:27:00,370 ConnPack()
+2018-07-25 12:27:00,384 ConnPack()
+2018-07-25 12:27:00,385 pool-thread-start
+2018-07-25 12:27:00,385 hb-size:10,0,True
+2018-07-25 12:27:01,386 hb-size-end:0,True
+2018-07-25 12:27:01,391 hb-size:0,0,True
+2018-07-25 12:27:02,393 hb-size-end:0,True
+2018-07-25 12:27:02,397 hb-size:0,0,True
+2018-07-25 12:27:09,038 ConnPack()
+2018-07-25 12:27:09,041 ConnPack()
+2018-07-25 12:27:09,045 ConnPack()
+2018-07-25 12:27:09,059 ConnPack()
+2018-07-25 12:27:09,062 ConnPack()
+2018-07-25 12:27:09,076 ConnPack()
+2018-07-25 12:27:09,079 ConnPack()
+2018-07-25 12:27:09,084 ConnPack()
+2018-07-25 12:27:09,089 ConnPack()
+2018-07-25 12:27:09,093 ConnPack()
+2018-07-25 12:27:09,094 pool-thread-start
+2018-07-25 12:27:09,094 hb-size:10,0,True
