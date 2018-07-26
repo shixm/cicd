@@ -1,2 +1,6 @@
 Flask<1
 pyjade<5
+pymysql
+mysql
+database test 
+table test2
